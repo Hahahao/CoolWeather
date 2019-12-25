@@ -1,0 +1,12 @@
+<litePal>
+
+    <dbname value="cool_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.hahahao.coolweather.db.Province" />
+        <mapping class="com.hahahao.coolweather.db.City" />
+        <mapping class="com.hahahao.coolweather.db.County" />
+    </list>
+</litePal>
